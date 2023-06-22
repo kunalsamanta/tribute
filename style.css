@@ -32,20 +32,24 @@ li a:hover {
 .heading{
     
     text-align: right; 
-   
-   
 
 }
 
 .img{
     float: left;
-    border-top-left-radius: 50% 50%; 
-    border-top-right-radius: 50% 50%;
-    border-bottom-right-radius: 50% 50%; 
-    border-bottom-left-radius: 50% 50%;
+    border-radius: 50%;
+    
+    
 }
 .head{
 
    text-align: center;
 
+}
+.gallery{
+  text-align: center;
+}
+.gallery-img{
+  width: 100%;
+  margin: auto;
 }
