@@ -37,7 +37,8 @@ li a:hover {
 
 .img{
     float: left;
-    border-radius: 50%;
+    margin: 10px;
+   
     
     
 }
